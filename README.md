@@ -15,7 +15,11 @@ Adaptation for Mobile Applications](https://arxiv.org/pdf/1804.03230.pdf)
 Hardware Parallelism](https://cgi.luddy.indiana.edu/~lukefahr/papers/jiecaoyu_isca17.pdf)
 - [Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://dl.acm.org/doi/pdf/10.5555/3546258.3546499)
 - [SPDY: Accurate Pruning with Speedup Guarantees](https://arxiv.org/pdf/2201.13096.pdf)
-
+- [The State of Sparsity in Deep Neural Networks](https://arxiv.org/pdf/1902.09574.pdf)
+- [PRUNING COMPACT CONVNETS FOR EFFICIENT INFERENCE](https://arxiv.org/pdf/2301.04502.pdf)
+- [WHAT IS THE STATE OF NEURAL NETWORK PRUNING?](https://arxiv.org/pdf/2003.03033.pdf)
+- [COMPARING REWINDING AND FINE-TUNING
+IN NEURAL NETWORK PRUNING](https://arxiv.org/pdf/2003.02389.pdf)
 
 ## Performance
 [Sparse GPU Kernels for Deep Learning](https://arxiv.org/pdf/2006.10901.pdf)
