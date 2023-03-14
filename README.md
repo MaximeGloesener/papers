@@ -25,6 +25,7 @@ IN NEURAL NETWORK PRUNING](https://arxiv.org/pdf/2003.02389.pdf)
 
 - [A Survey of Quantization Methods for Efficient
 Neural Network Inference](https://arxiv.org/pdf/2103.13630.pdf)
+- [A White Paper on Neural Network Quantization](https://arxiv.org/pdf/2106.08295.pdf)
 
 ### Performance
 - [Sparse GPU Kernels for Deep Learning](https://arxiv.org/pdf/2006.10901.pdf)
@@ -33,3 +34,4 @@ Neural Network Inference](https://arxiv.org/pdf/2103.13630.pdf)
 - [Sparsity in Deep Learning: Pruning + growth for efficient inference and training in neural networks](https://www.youtube.com/watch?v=H7-p3OWPpEI)
 - [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
 - [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
+- [Deep Dive on PyTorch Quantization - Chris Gottbrath](https://www.youtube.com/watch?v=c3MT2qV5f9w)
