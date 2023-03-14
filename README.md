@@ -2,8 +2,6 @@ List of interesting resources about neural network compression and performance.
 
 ## Papers
 
-### Compression
-
 ### Pruning
 
 - [Learning both Weights and Connections for Efficient
@@ -30,11 +28,10 @@ List of interesting resources about neural network compression and performance.
   Neural Network Inference](https://arxiv.org/pdf/2103.13630.pdf)
 - [A White Paper on Neural Network Quantization](https://arxiv.org/pdf/2106.08295.pdf)
 
-## Neural Architecture Search
+### Neural Architecture Search
 
 - [Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377.pdf)
 - [A Survey on Neural Architecture Search](https://arxiv.org/pdf/1905.01392.pdf)
-
 
 ### Performance
 
@@ -43,7 +40,7 @@ List of interesting resources about neural network compression and performance.
   “Sparseland”: A Short Handbook for Sparse
   Neural Network Researchers](https://arxiv.org/pdf/2302.02596.pdf)
 
-## Vidéos / Blog
+### Vidéos / Blog
 
 - [Sparsity in Deep Learning: Pruning + growth for efficient inference and training in neural networks](https://www.youtube.com/watch?v=H7-p3OWPpEI)
 - [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
