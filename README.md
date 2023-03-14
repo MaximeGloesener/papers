@@ -34,7 +34,7 @@ List of interesting resources about neural network compression and performance.
 
 - [Neural Architecture Search: A Survey](https://arxiv.org/pdf/1808.05377.pdf)
 - [A Survey on Neural Architecture Search](https://arxiv.org/pdf/1905.01392.pdf)
--
+
 
 ### Performance
 
