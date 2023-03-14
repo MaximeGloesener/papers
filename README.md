@@ -21,8 +21,13 @@ Hardware Parallelism](https://cgi.luddy.indiana.edu/~lukefahr/papers/jiecaoyu_is
 - [COMPARING REWINDING AND FINE-TUNING
 IN NEURAL NETWORK PRUNING](https://arxiv.org/pdf/2003.02389.pdf)
 
-## Performance
-[Sparse GPU Kernels for Deep Learning](https://arxiv.org/pdf/2006.10901.pdf)
+### Quantization
+
+- [A Survey of Quantization Methods for Efficient
+Neural Network Inference](https://arxiv.org/pdf/2103.13630.pdf)
+
+### Performance
+- [Sparse GPU Kernels for Deep Learning](https://arxiv.org/pdf/2006.10901.pdf)
 
 ## Vidéos / Blog
 - [Sparsity in Deep Learning: Pruning + growth for efficient inference and training in neural networks](https://www.youtube.com/watch?v=H7-p3OWPpEI)
